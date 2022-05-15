@@ -28,7 +28,7 @@ I am Zubayer. I'm from Dhaka and Student of Tejgaon Government High School. I lo
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdzubayerhossain)  
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
