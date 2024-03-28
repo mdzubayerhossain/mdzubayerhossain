@@ -5,5 +5,5 @@
 
 I am Zubayer. I'm from Dhaka and Student of Tejgaon Government High School. I love to learn programmeing & want to be a programmer.
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate FULL STACK developer from Bangladesh</h3>
 
