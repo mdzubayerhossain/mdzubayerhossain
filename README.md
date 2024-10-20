@@ -1,4 +1,4 @@
-# Hi, I'm Zubayer Hossain! 👋
+# Hi, I'm Zubayer Hossain Patowari! 👋
 
 ### Full-stack Developer | Game Developer | AI Enthusiast
 
