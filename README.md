@@ -1,9 +1,48 @@
-![I am a full stack developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/277093267_666411134603012_6090263682353068594_n.png?stp=dst-png_s960x960&_nc_cat=102&ccb=1-6&_nc_sid=e3f864&_nc_eui2=AeF5d5go-w4vt-i4LDRMcS-ekpA_wImBhIaSkD_AiYGEhlBdzpolOuMe2xWrS4td6f9yrm4Pt6JbVhY1F9Etpkk-&_nc_ohc=ShWYd2lf44YAX8GnIHp&tn=X38TGEZaURiLzqnm&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8w-jr_d11E9yRT0vOUUxKCqEi6sKZoGy76sVq6tP4ebA&oe=62840786)
+# Hi, I'm Zubayer Hossain! 👋
 
-# Hi there 👋, I'm Md Zubayer Hossain
-#### I am a full stack developer
+### Full-stack Developer | Game Developer | AI Enthusiast
 
-I am Zubayer. I'm from Dhaka and Student of Tejgaon Government High School. I love to learn programmeing & want to be a programmer.
+I'm a passionate full-stack developer and AI enthusiast with a keen interest in building intelligent systems and interactive applications. I love solving problems and creating impactful projects, whether it's developing cutting-edge chatbots in Bangla, web applications, or exciting games.
 
-<h3 align="center">A passionate FULL STACK developer from Bangladesh</h3>
+---
+
+## 🔥 Skills & Technologies
+- **Languages:** Python, JavaScript, HTML, CSS, Java
+- **Frameworks & Libraries:** Django, Flask, React.js, TensorFlow, Keras, NLTK
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Tools:** Git, Visual Studio Code, Android Studio, Photoshop
+- **Other Technologies:** Unity for game development, Firebase for authentication
+
+---
+
+## 🚀 Projects
+
+### 💬 BanglaGPT (Like ChatGPT)
+A conversational AI chatbot that understands and responds in Bangla, built using TensorFlow and Keras, with a Flask backend and React frontend. It includes a secure login/signup section with verification. [Check out the project here](https://github.com/mdzubayerhossain/BanglaGPT.git)
+
+
+
+---
+
+## 🌱 What I'm Learning
+- Advanced AI techniques for natural language processing
+- Full-stack development with React and Django
+- Improving my game development skills with Unity
+
+---
+
+## 👨‍🏫 Teaching & Contributions
+- Regularly participating in coding challenges and competitions on platforms like HackerRank and ICPC.
+
+---
+
+## 🌐 Connect with Me
+- **Email:** [mdzubayerpatowari@gmail.com](mailto:mdzubayerpatowari@gmail.com)
+- **GitHub:** [github.com/YourGitHubUsername](https://github.com/mdzubayerhossain)
+- **Google Developer Profile:** [g.dev/mdzubayerhossainpatowari](https://g.dev/mdzubayerhossainpatowari)
+- **LinkedIn:** [linkedin.com/in/YourLinkedInProfile](https://linkedin.com/in/md-zubayer-hossain-patowari)
+
+---
+
+Thanks for stopping by! Feel free to check out my projects and reach out if you'd like to collaborate or chat about tech. 😊
 
