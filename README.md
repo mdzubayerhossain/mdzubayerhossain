@@ -46,3 +46,5 @@ A conversational AI chatbot that understands and responds in Bangla, built using
 
 Thanks for stopping by! Feel free to check out my projects and reach out if you'd like to collaborate or chat about tech. 😊
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
