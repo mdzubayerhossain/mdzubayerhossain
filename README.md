@@ -7,7 +7,7 @@ I'm a passionate full-stack developer and AI enthusiast with a keen interest in 
 ---
 
 ## 🔥 Skills & Technologies
-- **Languages:** Python, JavaScript, HTML, CSS, Java
+- **Languages:** Python, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** Django, Flask, React.js, TensorFlow, Keras, NLTK
 - **Databases:** MySQL, PostgreSQL, SQLite
 - **Tools:** Git, Visual Studio Code, Android Studio, Photoshop
