@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=mdzubayerhossain&color=dc143c)
 # Hi, I'm Zubayer Hossain Patowari! 👋
 
 ### Full-stack Developer | Game Developer | AI Enthusiast
