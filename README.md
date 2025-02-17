@@ -40,9 +40,9 @@ A conversational AI chatbot that understands and responds in Bangla, built using
 
 ## 🌐 Connect with Me
 - **Email:** [mdzubayerpatowari@gmail.com](mailto:mdzubayerpatowari@gmail.com)
-- **GitHub:** [github.com/YourGitHubUsername](https://github.com/mdzubayerhossain)
+- **GitHub:** [github.com/mdzubayerhossain](https://github.com/mdzubayerhossain)
 - **Google Developer Profile:** [g.dev/mdzubayerhossainpatowari](https://g.dev/mdzubayerhossainpatowari)
-- **LinkedIn:** [linkedin.com/in/YourLinkedInProfile](https://linkedin.com/in/md-zubayer-hossain-patowari)
+- **LinkedIn:** [linkedin.com/in/md-zubayer-hossain-patowari](https://linkedin.com/in/md-zubayer-hossain-patowari)
 
 ---
 
