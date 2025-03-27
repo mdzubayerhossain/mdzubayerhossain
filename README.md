@@ -1,4 +1,4 @@
-# 💡 Md Zubayer Hossain Patowari | AI Engineer & Full-Stack Developer  🚀
+# Md Zubayer Hossain Patowari | AI Engineer & Full-Stack Developer  🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mdzubayerhossain&color=dc143c)
 
