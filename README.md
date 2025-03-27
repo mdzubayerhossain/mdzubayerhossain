@@ -65,3 +65,9 @@ I'm an AI Engineer and Full-Stack Developer who transforms complex challenges in
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdzubayerhossain&theme=radical&show_icons=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzubayerhossain&theme=radical&layout=compact)
+
+> **"Architecting intelligent systems that transform data into meaningful insights"** 🌐🤖
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer Wave" />
+</div>
