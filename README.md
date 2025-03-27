@@ -28,141 +28,51 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-# 🚀 Breakthrough AI & Technology Projects 🧠
-
-## 🌟 Transformative Technological Innovations
+## 🚀 Breakthrough AI & Technology Projects 🧠
 
 ### 1. Intelligent Web News Crawler 📰
-<div align="center">
-  <img src="https://img.shields.io/badge/Web%20Scraping-Advanced-brightgreen?style=for-the-badge" alt="Web Scraping Badge"/>
-  <img src="https://img.shields.io/badge/Python-Data%20Extraction-blue?style=for-the-badge&logo=python" alt="Python Badge"/>
-</div>
-
-#### 🔬 Project Essence
-- **Innovation:** Automated newspaper article extraction
+- **Innovation:** Automated extraction of newspaper articles
 - **Impact:** Intelligent web data aggregation
-- **Core Technologies:** 
-  - Web Scraping
-  - Python
-  - BeautifulSoup
-  - Scrapy
-
-#### 🏆 Key Achievements
-- Multi-section website crawling
-- Unique article identification
-- Robust data extraction algorithm
+- **Technologies:** Web Scraping, Python, BeautifulSoup, Scrapy
+- **Achievements:** Multi-section crawling, unique article identification, robust extraction algorithm
 
 ### 2. Telco Company Poster Detection 🖼️
-<div align="center">
-  <img src="https://img.shields.io/badge/Computer%20Vision-YOLOv12-red?style=for-the-badge" alt="Computer Vision Badge"/>
-  <img src="https://img.shields.io/badge/Object%20Detection-Real--Time-blueviolet?style=for-the-badge" alt="Real-Time Detection Badge"/>
-</div>
-
-#### 🌐 Project Vision
-- **Innovation:** Advanced real-time object detection
-- **Impact:** Intelligent poster recognition system
-- **Core Technologies:**
-  - YOLOv12 Object Detection
-  - Computer Vision
-  - Machine Learning
-  - Real-time Inference
-
-#### 💡 Innovative Approach
-- High-precision detection
-- Advanced machine learning model
-- Adaptive inference mechanism
+- **Innovation:** Real-time object detection
+- **Impact:** Intelligent poster recognition
+- **Technologies:** YOLOv12, Computer Vision, Machine Learning
+- **Approach:** High-precision detection, adaptive inference
 
 ### 3. Sukhi-Poribar AI Chatbot 💬
-<div align="center">
-  <img src="https://img.shields.io/badge/NLP-Healthcare%20Assistant-brightgreen?style=for-the-badge" alt="NLP Healthcare Badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Intelligent%20Communication-blue?style=for-the-badge" alt="ML Badge"/>
-</div>
-
-#### 🔬 Project Essence
-- **Innovation:** Cutting-edge NLP-driven family planning assistant
-- **Impact:** Revolutionary real-time, data-driven healthcare communication
-- **Core Technologies:** 
-  - Natural Language Processing
-  - Machine Learning Algorithms
-  - Contextual Understanding
-
-#### 🏆 Key Achievements
-- Advanced conversational AI in healthcare
-- Personalized user interaction
-- Intelligent information delivery
+- **Innovation:** NLP-driven family planning assistant
+- **Impact:** Real-time healthcare communication
+- **Technologies:** Natural Language Processing, Machine Learning
+- **Achievements:** Advanced conversational AI, personalized interactions
 
 ### 4. Generative Text Summarizer 📝
-<div align="center">
-  <img src="https://img.shields.io/badge/AI-Document%20Summarization-purple?style=for-the-badge" alt="AI Summarization Badge"/>
-  <img src="https://img.shields.io/badge/NLP-Bangla%20Language-orange?style=for-the-badge" alt="NLP Bangla Badge"/>
-</div>
-
-#### 🌐 Project Vision
 - **Innovation:** Automated Bangla healthcare document summarization
-- **Impact:** Breakthrough in information accessibility
-- **Core Technologies:**
-  - Artificial Intelligence
-  - Natural Language Processing
-  - Multilingual Text Analysis
-
-#### 💡 Innovative Approach
-- Advanced text comprehension
-- Contextual summarization
-- Preserving linguistic nuances
+- **Impact:** Enhanced information accessibility
+- **Technologies:** AI, NLP, Multilingual Text Analysis
+- **Approach:** Contextual summarization, linguistic nuance preservation
 
 ### 5. Bangla Sign Language Interpreter 🤲
-<div align="center">
-  <img src="https://img.shields.io/badge/CNN-Sign%20Language-pink?style=for-the-badge" alt="CNN Sign Language Badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Accessibility-darkblue?style=for-the-badge" alt="Computer Vision Badge"/>
-</div>
-
-#### 🧠 Technological Innovation
-- **Technology:** Convolutional Neural Networks (CNN)
+- **Innovation:** Real-time sign language translation
 - **Impact:** Breaking communication barriers
-- **Core Technologies:**
-  - Deep Learning
-  - Computer Vision
-  - Gesture Recognition
-  - Image Processing
-
-#### 🌈 Project Highlights
-- Real-time sign language translation
-- Advanced neural network architecture
-- Inclusive communication technology
+- **Technologies:** CNN, Deep Learning, Gesture Recognition
+- **Highlights:** Advanced architecture, inclusive technology
 
 ### 6. Anihilitor Game 🎮
-<div align="center">
-  <img src="https://img.shields.io/badge/Unity-Game%20Development-blue?style=for-the-badge" alt="Unity Badge"/>
-  <img src="https://img.shields.io/badge/AI-Game%20Mechanics-red?style=for-the-badge" alt="AI Game Mechanics Badge"/>
-</div>
-
-#### 🚀 Project Milestone
-- **Achievement:** 7,000+ game downloads
-- **Innovation:** Groundbreaking AI-powered game mechanics
-- **Core Technologies:**
-  - Unity Game Engine
-  - Artificial Intelligence
-  - Procedural Game Design
-
-#### 🏅 Standout Features
-- Intelligent game dynamics
-- Adaptive player experience
-- Advanced AI-driven gameplay
+- **Achievement:** 7,000+ downloads
+- **Innovation:** AI-powered game mechanics
+- **Technologies:** Unity, AI, Procedural Design
+- **Features:** Intelligent dynamics, adaptive gameplay
 
 ### 7. COVID-19 Vaccination Assistant 💉
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-Healthcare%20AI-green?style=for-the-badge" alt="TensorFlow Badge"/>
-  <img src="https://img.shields.io/badge/Flask-Web%20Application-lightblue?style=for-the-badge" alt="Flask Badge"/>
-</div>
-
-#### 🌍 Project Impact
 - **Innovation:** Multilingual healthcare chatbot
 - **Target Audience:** Pregnant and breastfeeding women
-- **Core Technologies:**
-  - TensorFlow
-  - Flask Web Framework
-  - Machine Learning Classification
+- **Technologies:** TensorFlow, Flask
+- **Impact:** Accessible medical information and guidance
 
+--- 
 #### 🤝 Social Contribution
 - Accessible medical information
 - Personalized healthcare guidance
