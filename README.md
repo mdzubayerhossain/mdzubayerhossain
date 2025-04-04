@@ -89,8 +89,9 @@
 ## 🌍 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdzubayerpatowari@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-zubayer-hossain-patowari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdzubayerhossainpatowari)
 [![GitHub](https://img.shields.io/badge/GitHub-Project%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdzubayerhossain)
+
 
 ---
 
