@@ -1,12 +1,11 @@
 # Md Zubayer Hossain Patowari | AI Engineer & Full-Stack Developer
-I like optimizing things
 ![Profile Views](https://komarev.com/ghpvc/?username=mdzubayerhossain&color=dc143c)
 
 ## 🌟 About Me
 
  Passionate AI Engineer with hands-on experience in developing innovative AI solutions across healthcare, gaming, and
  automation. Skilled in natural language processing, machine learning, computer vision and generative AI, with a focus
- on real-world problem-solving.
+ on real-world problem-solving. I like optimizing things.
 
 ![Profile Banner](https://github.com/user-attachments/assets/3f35592c-2692-4582-b440-732b46be6fc2)
 
