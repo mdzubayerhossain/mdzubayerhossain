@@ -22,6 +22,8 @@
 - 🔮 Generative AI
 - 📊 Machine Learning Modeling
 
+- 💬 Ask me about `ML`, `Deep Learning`, `NLP`, `Computer Vision`, `Data Science`, `Python`
+
 ### 🌐 Web Technologies
 ![React](https://img.shields.io/badge/React-Professional-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white)
